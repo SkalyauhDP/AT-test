@@ -1,0 +1,22 @@
+{
+  "id": 99223372036854752000,
+  "category": {
+    "id": 0,
+    "name": "category_1"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "tag_0"
+    },
+    {
+      "id": 1,
+      "name": "tag_1"
+    }
+  ],
+  "status": "pending"
+}
